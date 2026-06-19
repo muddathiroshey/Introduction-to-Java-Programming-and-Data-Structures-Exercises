@@ -9,6 +9,6 @@
 public class Exercise01_05 {
     public static void main(String[] args) {
         // Calculate and print result here
-        system.out.print((9.5 * 4.5 - 2.5 * 3) / ( 45.5 - 3.5 ));
+        system.out.print((9.5 * 4.5 - 2.5 * 3) / ( 45.5 - 3.5));
     }
 }
